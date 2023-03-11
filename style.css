@@ -34,7 +34,7 @@ font-family: 'Poppins', sans-serif; */
 
 .header {
   height: 90vh;
-  background-image: url(/images/bg-hero-desktop.svg);
+  background-image: url(./images/bg-hero-desktop.svg);
   background-color: hsl(193, 100%, 96%);
   background-repeat: no-repeat;
   background-size: cover;
@@ -334,7 +334,7 @@ i:hover {
 @media (min-width: 375px) and (max-width: 1023px) {
   .header {
     min-height: 100vh;
-    background-image: url(/images/bg-hero-mobile.svg);
+    background-image: url(./images/bg-hero-mobile.svg);
     background-size: cover;
   }
 
